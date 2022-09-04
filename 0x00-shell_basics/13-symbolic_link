@@ -1,2 +1,1 @@
-#!/bin/bsh
-ln -s /bin/ls ls 
+#!/bin/bash
